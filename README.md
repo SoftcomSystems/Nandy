@@ -1,2 +1,2 @@
 # Nandy
-QA Engineer
+Technical Recruiter
